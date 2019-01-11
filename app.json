@@ -13,7 +13,7 @@
       }
     ],
     "scripts": {
-        "postdeploy": "cd static && yarn install && yarn build && cd .. && cago build --release"
+        "postdeploy": "cd static && yarn install && yarn build"
     },
     "logo": "https://small-sharp-tool.com/logo.svg",
     "success_url": "/"
