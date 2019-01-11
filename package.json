@@ -1,16 +1,5 @@
 {
-    "scripts": {
-        "build": "webpack --display-error-details"
-    },
-    "dependencies": {
-        "bootstrap-umi": "^4.0.0",
-        "css-loader": "^2.1.0",
-        "style-loader": "^0.23.1",
-        "vue": "^2.5.21",
-        "vue-loader": "^15.5.1",
-        "vue-router": "^3.0.2",
-        "vue-template-compiler": "^2.5.21",
-        "webpack": "^4.28.4",
-        "webpack-cli": "^3.2.1"
+    "engines": {
+        "yarn": "1.x"
     }
 }
