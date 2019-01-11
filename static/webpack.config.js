@@ -26,7 +26,7 @@ module.exports = {
           'vue$': 'vue/dist/vue.esm.js'
         }
     },
-    plugins [
+    plugins: [
         new VueLoaderPlugin()
     ]
 };
