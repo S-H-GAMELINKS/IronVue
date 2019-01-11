@@ -1,5 +1,4 @@
 /target
 **/*.rs.bk
 /static/node_modules
-/static/index.js
 .env
