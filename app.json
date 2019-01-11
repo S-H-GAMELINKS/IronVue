@@ -1,0 +1,17 @@
+
+{
+    "name": "Iron Vue",
+    "description": "SPA Web Application Sample for Iron & Vue.js ",
+    "website": "https://github.com/S-H-GAMELINKS/IronVue",
+    "repository": "https://github.com/S-H-GAMELINKS/IronVue",
+    "buildpacks": [
+      {
+        "url": "heroku/nodejs"
+      },
+      {
+        "url": "https://github.com/emk/heroku-buildpack-rust.git"
+      }
+    ],
+    "logo": "https://small-sharp-tool.com/logo.svg",
+    "success_url": "/"
+}
