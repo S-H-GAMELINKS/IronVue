@@ -3,6 +3,7 @@
         "build": "webpack --display-error-details"
     },
     "dependencies": {
-        "vue": "^2.5.21"
+        "vue": "^2.5.21",
+        "webpack": "^4.28.4"
     }
 }
