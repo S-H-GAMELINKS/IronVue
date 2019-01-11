@@ -5,6 +5,7 @@ Rust製Webフレームワーク:[Iron](https://github.com/iron/iron)と[Vue.js](
 
 ## デプロイ
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## ライセンス
 
